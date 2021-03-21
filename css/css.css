@@ -1,0 +1,66 @@
+@charset "utf-8";
+#content {
+    background-color: #F2E7AC;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: justify;
+}
+#content h2 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #F26363;
+}
+#content h4 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#content h3 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #69A7BF;
+}
+#menu {
+    background-color: #ED6C5E;
+    padding: 10px;
+}
+#content #perrofeo {
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#content #perrococo {
+    float: right;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#content #perrobridgerton {
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+#content #perropalopiso {
+    float: right;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#content #perrotibetano {
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#content #perrofangs {
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
